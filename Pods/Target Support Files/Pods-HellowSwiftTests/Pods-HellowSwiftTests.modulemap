@@ -1,0 +1,6 @@
+framework module Pods_HellowSwiftTests {
+  umbrella header "Pods-HellowSwiftTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
